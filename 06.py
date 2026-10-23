@@ -8,3 +8,4 @@ if harorat >=20 and yomgir == 'yoq':
 
 else:
     print("ko'ylak kiying")
+#5 - 7 - 9 - 10 misollar qoldi 
